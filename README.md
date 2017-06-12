@@ -1,6 +1,10 @@
 # simple-node-mongo-customer
 ##### Very basic Node App with Express and MongoDB
 
+## Pre Requisites
+##### 1. Node.js installed
+##### 2. MongnoDB sever runing
+
 ## To set it up and get running
 
 
